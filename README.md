@@ -1,6 +1,8 @@
-## Figma URL
+To install on local system : 
+         
+    npm install 
+    npm start
 
-[Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
 
 ## Steps
 
